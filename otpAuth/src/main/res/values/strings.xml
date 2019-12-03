@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OTP-Authentication</string>
+
+
+    <string-array name="phone_number_content" translatable="false">
+        <item>+201007686386</item>
+        <item>+201119589396</item>
+        <item>+201091460759</item>
+    </string-array>
+</resources>
